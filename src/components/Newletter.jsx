@@ -5,7 +5,7 @@ function Newletter() {
     <div className='w-full py-16 text-white px-4'>
     <div className='max-[1240px] grid  mx-auto lg:grid-cols-3'> 
     <div className='lg:col-span-2 my-4'>
-    <h1 className='md:tex-4xl sm:text-3xl text-2xl font-bold py-2'>Want to Get <br />new trendy Wears? </h1>
+    <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Want to Get <br />new trendy Wears? </h1>
     <p>Signup To Aeries Trendy and Stay yp to Date</p>
       </div>
       <div className='my-4'>
